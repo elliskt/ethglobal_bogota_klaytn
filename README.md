@@ -4,7 +4,7 @@ Ting Museum Website: www.tingmuseum.art
 -------------------
 IcarusArt Website: http://18.162.114.252:8805
 -------------------
-Polygon Mumbai Contract: https://mumbai.polygonscan.com/address/0xa4596381ef93434847b9617ef9834ff71ffc0e3c
+Mumbai Contract: https://mumbai.polygonscan.com/address/0xa4596381ef93434847b9617ef9834ff71ffc0e3c
 -------------------
 
 1. By using ecosystem development of Klaytn in NFT market place, OpenSea API is used for developing our Metaverse environment and Dapps.
